@@ -72,7 +72,7 @@ For Version: 0.2
 
 A new Menu for Advanced Features.
 
-Advanced features will include code editor for Java, C++, Python, JavaScript
+Advanced features will include code editor for Java, C++, Python, JavaScript.
 A ToolBar below the MenuBar, for actions on the code written.
 
 A Sticky Notes Feature, to save limited text notes.
