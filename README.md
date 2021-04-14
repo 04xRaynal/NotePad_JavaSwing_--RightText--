@@ -2,6 +2,8 @@
 ***
 
 ## A traditional NotePad using Java Swing
+
+### Contains all the Features implemented present in the Windows NotePad, along with some extra Features.
 ---
 
  ** Version - 0.1 **
