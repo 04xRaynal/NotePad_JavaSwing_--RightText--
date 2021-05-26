@@ -4,6 +4,9 @@
 ## A traditional NotePad using Java Swing
 
 ### Contains all the Features implemented present in the Windows NotePad, along with some extra Features.
+
+Project Demo: [NotePad --RightText--](https://replit.com/@MajinVegetaSSJ2/NotePad-RightText?v=1)
+
 ---
 
  ** Version - 0.1 **
