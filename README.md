@@ -9,7 +9,7 @@ Project Demo: [NotePad --RightText--](https://replit.com/@MajinVegetaSSJ2/NotePa
 
 ---
 
- ** Version - 0.1 **
+ ** Version - 1.0 **
  
 Contains a JTextArea to write text, 
 
@@ -73,7 +73,7 @@ Download: http://jfontchooser.osdn.jp/site/jfontchooser/download.html
 
 ---
 
-For Version: 0.2
+Future Release:
 
 A new Menu for Advanced Features.
 
